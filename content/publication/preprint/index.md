@@ -1,6 +1,7 @@
 ---
 title: "The Global Financial Cycle and Sectoral Tradeoffs"
-authors: "Son (2023)"
+authors:
+- Son
 date: ""
 doi: ""
 
