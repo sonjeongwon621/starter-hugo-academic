@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeongwon (John) Son 손정원
+title: Jeongwon (John) Son
 
 # Full name (for SEO)
 first_name: Jeongwon
@@ -8,11 +8,6 @@ last_name: Son
 
 # Is this the primary user of the site?
 superuser: true
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Johns Hopkins University
-    url: https://www.econ.jhu.edu
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -26,5 +21,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate interested in international macroeconomics and finance.
+I am a PhD candidate in economics at Johns Hopkins University. I am interested in International Macroeconomics and Finance. I will be on the 2023-2024 job market. 
 {style="text-align: justify;"}
