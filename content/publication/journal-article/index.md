@@ -1,6 +1,8 @@
 ---
 title: "To what extent are tariffs offset by exchange rates?"
-authors: "Jeanne and Son (2023)"
+authors: 
+- Jeanne
+- Son
 date: ""
 doi: ""
 
